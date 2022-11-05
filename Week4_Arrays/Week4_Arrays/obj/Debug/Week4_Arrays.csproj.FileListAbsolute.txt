@@ -1,0 +1,8 @@
+C:\Users\mohan\source\repos\Week4_Arrays\Week4_Arrays\bin\Debug\Week4_Arrays.exe.config
+C:\Users\mohan\source\repos\Week4_Arrays\Week4_Arrays\bin\Debug\Week4_Arrays.exe
+C:\Users\mohan\source\repos\Week4_Arrays\Week4_Arrays\bin\Debug\Week4_Arrays.pdb
+C:\Users\mohan\source\repos\Week4_Arrays\Week4_Arrays\obj\Debug\Week4_Arrays.csproj.AssemblyReference.cache
+C:\Users\mohan\source\repos\Week4_Arrays\Week4_Arrays\obj\Debug\Week4_Arrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\mohan\source\repos\Week4_Arrays\Week4_Arrays\obj\Debug\Week4_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\mohan\source\repos\Week4_Arrays\Week4_Arrays\obj\Debug\Week4_Arrays.exe
+C:\Users\mohan\source\repos\Week4_Arrays\Week4_Arrays\obj\Debug\Week4_Arrays.pdb

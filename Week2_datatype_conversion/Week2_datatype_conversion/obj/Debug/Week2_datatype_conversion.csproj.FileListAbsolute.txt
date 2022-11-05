@@ -1,0 +1,8 @@
+C:\Users\mohan\source\repos\Week2_datatype_conversion\Week2_datatype_conversion\bin\Debug\Week2_datatype_conversion.exe.config
+C:\Users\mohan\source\repos\Week2_datatype_conversion\Week2_datatype_conversion\bin\Debug\Week2_datatype_conversion.exe
+C:\Users\mohan\source\repos\Week2_datatype_conversion\Week2_datatype_conversion\bin\Debug\Week2_datatype_conversion.pdb
+C:\Users\mohan\source\repos\Week2_datatype_conversion\Week2_datatype_conversion\obj\Debug\Week2_datatype_conversion.csproj.AssemblyReference.cache
+C:\Users\mohan\source\repos\Week2_datatype_conversion\Week2_datatype_conversion\obj\Debug\Week2_datatype_conversion.csproj.SuggestedBindingRedirects.cache
+C:\Users\mohan\source\repos\Week2_datatype_conversion\Week2_datatype_conversion\obj\Debug\Week2_datatype_conversion.csproj.CoreCompileInputs.cache
+C:\Users\mohan\source\repos\Week2_datatype_conversion\Week2_datatype_conversion\obj\Debug\Week2_datatype_conversion.exe
+C:\Users\mohan\source\repos\Week2_datatype_conversion\Week2_datatype_conversion\obj\Debug\Week2_datatype_conversion.pdb

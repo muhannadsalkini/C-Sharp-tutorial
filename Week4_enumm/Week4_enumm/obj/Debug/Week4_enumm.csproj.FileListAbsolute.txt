@@ -1,0 +1,8 @@
+C:\Users\mohan\source\repos\Week4_enumm\Week4_enumm\bin\Debug\Week4_enumm.exe.config
+C:\Users\mohan\source\repos\Week4_enumm\Week4_enumm\bin\Debug\Week4_enumm.exe
+C:\Users\mohan\source\repos\Week4_enumm\Week4_enumm\bin\Debug\Week4_enumm.pdb
+C:\Users\mohan\source\repos\Week4_enumm\Week4_enumm\obj\Debug\Week4_enumm.csproj.AssemblyReference.cache
+C:\Users\mohan\source\repos\Week4_enumm\Week4_enumm\obj\Debug\Week4_enumm.csproj.SuggestedBindingRedirects.cache
+C:\Users\mohan\source\repos\Week4_enumm\Week4_enumm\obj\Debug\Week4_enumm.csproj.CoreCompileInputs.cache
+C:\Users\mohan\source\repos\Week4_enumm\Week4_enumm\obj\Debug\Week4_enumm.exe
+C:\Users\mohan\source\repos\Week4_enumm\Week4_enumm\obj\Debug\Week4_enumm.pdb

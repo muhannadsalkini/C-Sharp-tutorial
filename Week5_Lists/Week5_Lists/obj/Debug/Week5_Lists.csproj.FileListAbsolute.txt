@@ -1,0 +1,8 @@
+C:\Users\mohan\source\repos\Week5_Lists\Week5_Lists\bin\Debug\Week5_Lists.exe.config
+C:\Users\mohan\source\repos\Week5_Lists\Week5_Lists\bin\Debug\Week5_Lists.exe
+C:\Users\mohan\source\repos\Week5_Lists\Week5_Lists\bin\Debug\Week5_Lists.pdb
+C:\Users\mohan\source\repos\Week5_Lists\Week5_Lists\obj\Debug\Week5_Lists.csproj.AssemblyReference.cache
+C:\Users\mohan\source\repos\Week5_Lists\Week5_Lists\obj\Debug\Week5_Lists.csproj.SuggestedBindingRedirects.cache
+C:\Users\mohan\source\repos\Week5_Lists\Week5_Lists\obj\Debug\Week5_Lists.csproj.CoreCompileInputs.cache
+C:\Users\mohan\source\repos\Week5_Lists\Week5_Lists\obj\Debug\Week5_Lists.exe
+C:\Users\mohan\source\repos\Week5_Lists\Week5_Lists\obj\Debug\Week5_Lists.pdb

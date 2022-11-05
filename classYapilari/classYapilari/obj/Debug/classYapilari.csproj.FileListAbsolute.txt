@@ -1,0 +1,8 @@
+C:\Users\mohan\source\repos\classYapilari\classYapilari\bin\Debug\classYapilari.exe.config
+C:\Users\mohan\source\repos\classYapilari\classYapilari\bin\Debug\classYapilari.exe
+C:\Users\mohan\source\repos\classYapilari\classYapilari\bin\Debug\classYapilari.pdb
+C:\Users\mohan\source\repos\classYapilari\classYapilari\obj\Debug\classYapilari.csproj.AssemblyReference.cache
+C:\Users\mohan\source\repos\classYapilari\classYapilari\obj\Debug\classYapilari.csproj.SuggestedBindingRedirects.cache
+C:\Users\mohan\source\repos\classYapilari\classYapilari\obj\Debug\classYapilari.csproj.CoreCompileInputs.cache
+C:\Users\mohan\source\repos\classYapilari\classYapilari\obj\Debug\classYapilari.exe
+C:\Users\mohan\source\repos\classYapilari\classYapilari\obj\Debug\classYapilari.pdb

@@ -1,0 +1,8 @@
+C:\Users\mohan\source\repos\Week2_exercises\Week2_exercises\bin\Debug\Week2_exercises.exe.config
+C:\Users\mohan\source\repos\Week2_exercises\Week2_exercises\bin\Debug\Week2_exercises.exe
+C:\Users\mohan\source\repos\Week2_exercises\Week2_exercises\bin\Debug\Week2_exercises.pdb
+C:\Users\mohan\source\repos\Week2_exercises\Week2_exercises\obj\Debug\Week2_exercises.csproj.AssemblyReference.cache
+C:\Users\mohan\source\repos\Week2_exercises\Week2_exercises\obj\Debug\Week2_exercises.csproj.SuggestedBindingRedirects.cache
+C:\Users\mohan\source\repos\Week2_exercises\Week2_exercises\obj\Debug\Week2_exercises.csproj.CoreCompileInputs.cache
+C:\Users\mohan\source\repos\Week2_exercises\Week2_exercises\obj\Debug\Week2_exercises.exe
+C:\Users\mohan\source\repos\Week2_exercises\Week2_exercises\obj\Debug\Week2_exercises.pdb

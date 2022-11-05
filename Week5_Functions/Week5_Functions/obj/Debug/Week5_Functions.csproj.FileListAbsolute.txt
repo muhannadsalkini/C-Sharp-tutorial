@@ -1,0 +1,8 @@
+C:\Users\mohan\source\repos\Week5_Functions\Week5_Functions\bin\Debug\Week5_Functions.exe.config
+C:\Users\mohan\source\repos\Week5_Functions\Week5_Functions\bin\Debug\Week5_Functions.exe
+C:\Users\mohan\source\repos\Week5_Functions\Week5_Functions\bin\Debug\Week5_Functions.pdb
+C:\Users\mohan\source\repos\Week5_Functions\Week5_Functions\obj\Debug\Week5_Functions.csproj.AssemblyReference.cache
+C:\Users\mohan\source\repos\Week5_Functions\Week5_Functions\obj\Debug\Week5_Functions.csproj.SuggestedBindingRedirects.cache
+C:\Users\mohan\source\repos\Week5_Functions\Week5_Functions\obj\Debug\Week5_Functions.csproj.CoreCompileInputs.cache
+C:\Users\mohan\source\repos\Week5_Functions\Week5_Functions\obj\Debug\Week5_Functions.exe
+C:\Users\mohan\source\repos\Week5_Functions\Week5_Functions\obj\Debug\Week5_Functions.pdb

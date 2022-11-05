@@ -1,0 +1,8 @@
+C:\Users\mohan\source\repos\Week2_ifElse\Week2_ifElse\bin\Debug\Week2_ifElse.exe.config
+C:\Users\mohan\source\repos\Week2_ifElse\Week2_ifElse\bin\Debug\Week2_ifElse.exe
+C:\Users\mohan\source\repos\Week2_ifElse\Week2_ifElse\bin\Debug\Week2_ifElse.pdb
+C:\Users\mohan\source\repos\Week2_ifElse\Week2_ifElse\obj\Debug\Week2_ifElse.csproj.AssemblyReference.cache
+C:\Users\mohan\source\repos\Week2_ifElse\Week2_ifElse\obj\Debug\Week2_ifElse.csproj.SuggestedBindingRedirects.cache
+C:\Users\mohan\source\repos\Week2_ifElse\Week2_ifElse\obj\Debug\Week2_ifElse.csproj.CoreCompileInputs.cache
+C:\Users\mohan\source\repos\Week2_ifElse\Week2_ifElse\obj\Debug\Week2_ifElse.exe
+C:\Users\mohan\source\repos\Week2_ifElse\Week2_ifElse\obj\Debug\Week2_ifElse.pdb
