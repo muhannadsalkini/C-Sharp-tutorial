@@ -12,7 +12,6 @@ namespace Week5_Lists
     {
         static void Main(string[] args)
         {
-            
             /*************** example 1 **************/
             Queue p1 = new Queue()
             {
