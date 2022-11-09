@@ -1,0 +1,8 @@
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week6_Math\Week6_Math\bin\Debug\Week6_Math.exe.config
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week6_Math\Week6_Math\bin\Debug\Week6_Math.exe
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week6_Math\Week6_Math\bin\Debug\Week6_Math.pdb
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week6_Math\Week6_Math\obj\Debug\Week6_Math.csproj.AssemblyReference.cache
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week6_Math\Week6_Math\obj\Debug\Week6_Math.csproj.SuggestedBindingRedirects.cache
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week6_Math\Week6_Math\obj\Debug\Week6_Math.csproj.CoreCompileInputs.cache
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week6_Math\Week6_Math\obj\Debug\Week6_Math.exe
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week6_Math\Week6_Math\obj\Debug\Week6_Math.pdb

@@ -1,0 +1,8 @@
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week6_OOP_Static\Week6_OOP_Static\bin\Debug\Week6_OOP_Static.exe.config
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week6_OOP_Static\Week6_OOP_Static\bin\Debug\Week6_OOP_Static.exe
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week6_OOP_Static\Week6_OOP_Static\bin\Debug\Week6_OOP_Static.pdb
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week6_OOP_Static\Week6_OOP_Static\obj\Debug\Week6_OOP_Static.csproj.AssemblyReference.cache
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week6_OOP_Static\Week6_OOP_Static\obj\Debug\Week6_OOP_Static.csproj.SuggestedBindingRedirects.cache
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week6_OOP_Static\Week6_OOP_Static\obj\Debug\Week6_OOP_Static.csproj.CoreCompileInputs.cache
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week6_OOP_Static\Week6_OOP_Static\obj\Debug\Week6_OOP_Static.exe
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week6_OOP_Static\Week6_OOP_Static\obj\Debug\Week6_OOP_Static.pdb

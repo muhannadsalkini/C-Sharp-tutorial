@@ -1,6 +1,5 @@
 ﻿/*
  * ref function: to change one paramiter by referanse address "works like pointers"
- * 		first data shild be defined
  * out function: to change more than one paramiters, provides more than one output
  */
 
