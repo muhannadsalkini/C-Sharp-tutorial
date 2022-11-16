@@ -1,0 +1,8 @@
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week7_OOP_Encapsulation\Week7_OOP_Encapsulation\bin\Debug\Week7_OOP_Encapsulation.exe.config
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week7_OOP_Encapsulation\Week7_OOP_Encapsulation\bin\Debug\Week7_OOP_Encapsulation.exe
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week7_OOP_Encapsulation\Week7_OOP_Encapsulation\bin\Debug\Week7_OOP_Encapsulation.pdb
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week7_OOP_Encapsulation\Week7_OOP_Encapsulation\obj\Debug\Week7_OOP_Encapsulation.csproj.AssemblyReference.cache
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week7_OOP_Encapsulation\Week7_OOP_Encapsulation\obj\Debug\Week7_OOP_Encapsulation.csproj.SuggestedBindingRedirects.cache
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week7_OOP_Encapsulation\Week7_OOP_Encapsulation\obj\Debug\Week7_OOP_Encapsulation.csproj.CoreCompileInputs.cache
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week7_OOP_Encapsulation\Week7_OOP_Encapsulation\obj\Debug\Week7_OOP_Encapsulation.exe
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week7_OOP_Encapsulation\Week7_OOP_Encapsulation\obj\Debug\Week7_OOP_Encapsulation.pdb

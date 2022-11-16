@@ -1,0 +1,8 @@
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week7_OOP_Get_Set\Week7_\bin\Debug\Week7_.exe.config
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week7_OOP_Get_Set\Week7_\bin\Debug\Week7_.exe
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week7_OOP_Get_Set\Week7_\bin\Debug\Week7_.pdb
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week7_OOP_Get_Set\Week7_\obj\Debug\Week7_.csproj.AssemblyReference.cache
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week7_OOP_Get_Set\Week7_\obj\Debug\Week7_.csproj.SuggestedBindingRedirects.cache
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week7_OOP_Get_Set\Week7_\obj\Debug\Week7_.csproj.CoreCompileInputs.cache
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week7_OOP_Get_Set\Week7_\obj\Debug\Week7_.exe
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week7_OOP_Get_Set\Week7_\obj\Debug\Week7_.pdb
