@@ -1,0 +1,8 @@
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week7_homework1\Week7_homework1\bin\Debug\Week7_homework1.exe.config
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week7_homework1\Week7_homework1\bin\Debug\Week7_homework1.exe
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week7_homework1\Week7_homework1\bin\Debug\Week7_homework1.pdb
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week7_homework1\Week7_homework1\obj\Debug\Week7_homework1.csproj.AssemblyReference.cache
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week7_homework1\Week7_homework1\obj\Debug\Week7_homework1.csproj.SuggestedBindingRedirects.cache
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week7_homework1\Week7_homework1\obj\Debug\Week7_homework1.csproj.CoreCompileInputs.cache
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week7_homework1\Week7_homework1\obj\Debug\Week7_homework1.exe
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week7_homework1\Week7_homework1\obj\Debug\Week7_homework1.pdb
