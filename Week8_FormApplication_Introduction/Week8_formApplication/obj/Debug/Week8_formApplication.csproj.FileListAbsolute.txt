@@ -1,0 +1,11 @@
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week8_formApplication\Week8_formApplication\bin\Debug\Week8_formApplication.exe.config
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week8_formApplication\Week8_formApplication\bin\Debug\Week8_formApplication.exe
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week8_formApplication\Week8_formApplication\bin\Debug\Week8_formApplication.pdb
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week8_formApplication\Week8_formApplication\obj\Debug\Week8_formApplication.csproj.AssemblyReference.cache
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week8_formApplication\Week8_formApplication\obj\Debug\Week8_formApplication.csproj.SuggestedBindingRedirects.cache
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week8_formApplication\Week8_formApplication\obj\Debug\Week8_formApplication.Form1.resources
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week8_formApplication\Week8_formApplication\obj\Debug\Week8_formApplication.Properties.Resources.resources
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week8_formApplication\Week8_formApplication\obj\Debug\Week8_formApplication.csproj.GenerateResource.cache
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week8_formApplication\Week8_formApplication\obj\Debug\Week8_formApplication.csproj.CoreCompileInputs.cache
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week8_formApplication\Week8_formApplication\obj\Debug\Week8_formApplication.exe
+D:\Uni\5. Semester\Visual Programming\C-Sharp-tutorial\Week8_formApplication\Week8_formApplication\obj\Debug\Week8_formApplication.pdb
