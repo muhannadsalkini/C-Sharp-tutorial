@@ -43,7 +43,7 @@ namespace ContractMAnagmentSystem
                 LoginDBDataSetTableAdapters.UsersTableAdapter user = new LoginDBDataSetTableAdapters.UsersTableAdapter();
                 LoginDBDataSet.UsersDataTable dt = user.GetDataByUsernamePassword(txtUsername.Text,txtPassword.Text);
                 
-                if (dt.Rows.Count == 0 )
+                if (dt.Rows.Count > 0 )
                 {
                     MessageBox.Show(" You have been succesfully logged in", "Message", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     Form2 frm2 = new Form2();

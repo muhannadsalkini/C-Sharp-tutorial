@@ -10,8 +10,7 @@ namespace Week7_homework2
     {
         static void Main(string[] args)
         {
-            Personel p1 = new Personel("Muhannad", "Salkini", "12345678901");
-
+            Personel p1 = new Personel("Muhannad", "Salkini", "1234567a901");
 
             Console.WriteLine("TC: {0}",p1.tc);
             Console.ReadKey();

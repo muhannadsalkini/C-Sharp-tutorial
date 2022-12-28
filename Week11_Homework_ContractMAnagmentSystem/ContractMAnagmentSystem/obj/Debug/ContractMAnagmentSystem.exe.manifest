@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ContractMAnagmentSystem.exe" size="244704">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ContractMAnagmentSystem.exe" size="245216">
       <assemblyIdentity name="ContractMAnagmentSystem" version="1.0.0.0" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>RlQOdp/v8PWKocZfP6/vr4HrCaSgm3Jp9zXOIUqUq1c=</dsig:DigestValue>
+        <dsig:DigestValue>ILhCKOQc4daKFB9kjMyVvcLAO+aFqKtcNcrfaDc1Iz4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -62,22 +62,22 @@
       <dsig:DigestValue>aRGcFkM+ibCy8lo8Luv3JH9Z9C+FcEqyzdwO9nt/L6U=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="CRUD_DB.accdb" size="417792">
+  <file name="CRUD_DB.accdb" size="479232">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>O7o+heDVbXmUNIADBpKbu+FSvlZw0we60T4rX3NXDd8=</dsig:DigestValue>
+      <dsig:DigestValue>0sCjHNpF2bqWrivL7Ecf5Loz806JHJ+tgbH6Db8cJ2I=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="LoginDB.accdb" size="397312">
+  <file name="LoginDB.accdb" size="417792">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>4hOZnFrY1l1Qy6Eyh2jQiYDVaCCBhfvoibmxZ0EBCbw=</dsig:DigestValue>
+      <dsig:DigestValue>ODlFG8NAZnm0OGF109v5f1oNoJVLnGu9qhYAtJ6YjXQ=</dsig:DigestValue>
     </hash>
   </file>
   <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
